@@ -1,0 +1,3 @@
+rootProject.name = 'FacebookTabsExample'
+
+include ':app'
